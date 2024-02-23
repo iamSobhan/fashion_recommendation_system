@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 ## Findings
 
 <p align="justify">Based on user-input photographs, the Fashion Recommendation System shows promise in producing precise and pertinent fashion recommendations. The method effectively makes use of closest neighbors search to locate visually comparable fashion products and deep learning approaches to extract significant characteristics from photos. Because it allows users to interact with the system intuitively, the user interface improves accessibility and user engagement.</p>
-Network URL: http://192.168.0.103:8501
+
 
 
 
